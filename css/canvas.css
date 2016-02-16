@@ -60,7 +60,7 @@ ul,li{
     background: #fff;border-radius: 50%;
 }
 .selectarea{
-    border:1px dotted #000;
+    border:1px dotted #fff;
     position: absolute;  left:0;top:0;
     display:none;
 }
